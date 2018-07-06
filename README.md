@@ -8,4 +8,5 @@ Each Update would include:
 2. apk file to test the app
 3. images if need be
 
-wow that sounds something cool to see!, so stay tuned and remember to give me a star, if you like the what project HOMPLUS is all about, >#Grace
+wow that sounds something cool to see!, so stay tuned and remember to give me a star, if you like the what project HOMPLUS is all about, 
+> #Grace
