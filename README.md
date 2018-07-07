@@ -11,17 +11,19 @@ towards the end of this project, it is estimated HOMPLUS would be fully integrat
 wow that sounds something cool to see!, so stay tuned and remember to give me a star, if you like the what project HOMPLUS is all about, 
 > #Grace
 
-### HOMPLUSv3 Screenshot on IOS, Android and Window mobile view
+### HOMPLUSv1 Screenshot on IOS, Android and Window mobile view
 #### Major Changes Include
 1. App UI Design
 2. MQTT web-client service implemented!
 3. Connection to cloudMQTT established as real time changes is effected when light switch is toggled
+![homplusv1](https://user-images.githubusercontent.com/36452069/42404731-a5d31820-8183-11e8-8f88-a1ace70a0dd3.PNG)
 
 ### HOMPLUSv2 Screenshot on IOS, Android and Window mobile view
 #### Major Changes Include
 1. User Ability to change App theme added
 2. App UI re-invented 
 3. Security feature yet to be fully implemented
+![homplusv2](https://user-images.githubusercontent.com/36452069/42404741-bbd90260-8183-11e8-902d-4493d2b42459.PNG)
 
 ### HOMPLUSv3 Screenshot on IOS, Android and Window mobile view
 #### Major Changes Include
@@ -29,3 +31,4 @@ wow that sounds something cool to see!, so stay tuned and remember to give me a 
 2. Native Android passCode authentication functinality fully added
 3. App UI re-invented
 ![homplusv3](https://user-images.githubusercontent.com/36452069/42403743-4a47776a-817b-11e8-8f44-5aafebd99526.PNG)
+
