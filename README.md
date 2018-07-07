@@ -35,3 +35,12 @@ wow that sounds something cool to see!, so stay tuned and remember to give me a 
 ### You can get the app-debug.apk from
 https://drive.google.com/open?id=1O5cgvZ8qpW5bNaYo1w6raVlHJZhYDMXO
 
+Please Note!
+to test each version simply install the app-debug.apk for each version available, after u might have unziped the zip file
+
+if u find any bug pls, inform me using my github page
+https://github.com/AsombaChinonso/Project-HOMPLUS/issues
+
+Thank you!
+
+
