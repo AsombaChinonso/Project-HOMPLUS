@@ -3,12 +3,14 @@ Project HOMPLUS is a Mobile app, IOT Comfort Lamp software written in other to m
 
 towards the end of this project, it is estimated HOMPLUS would be fully integrated with 3 different light sources, of which 1 of its light Source for the lamp would be dynamic in function, a temperature sensor, humidity sensor, an alarm can be used to power ON the lamp, from its mobile software, its brightness and led color could be varied to suit the user preferences from the mobile app software (Android for now, other platform to follow later), e.t.c, 
 
-## Each Update would include, all things been equal:
+## Each version update would include, all things been equal :)
 1. Each version scripts in zipped folder,
 2. apk file to test the app version,
 3. images if need be
 
-wow that sounds something cool to see!, so stay tuned and remember to give me a star, if you like the what project HOMPLUS is all about, 
+wow that sounds something cool to see!, so stay tuned and 
+
+#### remember to give me a star, if you like the what project HOMPLUS is all about, 
 > #Grace
 
 ### HOMPLUSv1 Screenshot on IOS, Android and Window mobile view
