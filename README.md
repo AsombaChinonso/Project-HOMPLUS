@@ -31,5 +31,7 @@ wow that sounds something cool to see!, so stay tuned and remember to give me a 
 ![homplusv3](https://user-images.githubusercontent.com/36452069/42403743-4a47776a-817b-11e8-8f44-5aafebd99526.PNG)
 
 > Native Android passCode authentication functinality already added
-![homplusv3a](https://user-images.githubusercontent.com/36452069/42404980-09ac2bea-8187-11e8-800e-c56d55281d62.PNG)
+
+### You can get the app-debug.apk from
+https://drive.google.com/open?id=1O5cgvZ8qpW5bNaYo1w6raVlHJZhYDMXO
 
