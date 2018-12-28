@@ -43,6 +43,8 @@ to test each version simply install the app-debug.apk for each version available
 if u find any bug pls, inform me using my github page
 https://github.com/AsombaChinonso/Project-HOMPLUS/issues
 
+### Find me at : https://acemmanuel.my-free.website/about-me
+
 Thank you!
 
 
