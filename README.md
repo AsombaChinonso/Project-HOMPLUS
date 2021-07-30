@@ -45,7 +45,7 @@ https://github.com/AsombaChinonso/Project-HOMPLUS/issues
 
 ### Find me at : https://acemmanuel.my-free.website/about-me
 
-<img src="/images/github.png"> 
+<img src="images/github.png"> 
 
 Thank you!
 
